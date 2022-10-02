@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @boydeveloper
-- 👀 I’m interested in web development as a whole.
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on projects that are in my stack.
 - 📫 How to reach me ;email:daniel.onazi116@gmail.com
