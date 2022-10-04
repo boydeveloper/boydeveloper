@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏾‍💻-Hi,I am a Software Engineer.<br>📫 How to reach me ;email:daniel.onazi116@gmail.com
+👨🏾‍💻-Hi,I'm a Software Engineer.<br>📫 How to reach me ;email:daniel.onazi116@gmail.com
 
 
 ## 🌐 Socials:
